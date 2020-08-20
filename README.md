@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](tvvaultproof.PNG)
+[Link](url) and ![Image](https://github.com/Mantene/PrivateFiles/tvvaultproof.PNG)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
